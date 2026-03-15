@@ -10,7 +10,7 @@ let
       numpy
       pandas
       requests
-      jupyter-lab
+      jupyterlab
     ]);
 
   # Fish shell theme configuration
